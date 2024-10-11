@@ -127,8 +127,11 @@ getEvens(numberArray);
 
 console.log(EvenArr)
 console.log(OddArr)
+
+//I used an if else loop to combine the last two into one
 // getOdds -> a new array of all the odd numbers
-function getOdds(numberArray) {
+// function getOdds(numberArray) {
   
-}
+// }
 // Push your project to GitHub
+//Done!
